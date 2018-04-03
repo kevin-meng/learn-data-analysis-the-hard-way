@@ -2,6 +2,7 @@
 
 This repository give this useful functions to calculate or plot the amount of missing/imputed values in each variable of a dataframe.
 * md_patten()
+
   + like md.patten() of mice (R package) 
 * aggr()  
   + like aggr()  of VIM (R package)
