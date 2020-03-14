@@ -21,11 +21,11 @@ Nothing comes easily,
 
 
 ## TO DO List
-- [*] SQL
-- [*] Pandas
-- [*] Numpy
-- [*] Spark
-- []  Flink
+- [X] SQL
+- [ ] Pandas
+- [ ] Numpy
+- [ ] Spark
+- [ ]  Flink
 
 
 
