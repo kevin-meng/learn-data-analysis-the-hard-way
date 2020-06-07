@@ -13,7 +13,7 @@ Nothing comes easily,
 
 
 ## SQL 篇
-### 常见面试 50 题
+ - 常见面试 50 题
 
 
 ## Pandas 篇
@@ -23,7 +23,7 @@ Nothing comes easily,
 
 ## TO DO List
 - [X] SQL
-- [ ] Pandas
+- [X] Pandas
 - [ ] Numpy
 - [ ] Spark
 - [ ]  Flink
