@@ -55,7 +55,7 @@ Learn Data Analysis The Hard Way
 
 ## TO DO List
 - [X] SQL
-- [ ] Pandas
+- [X] Pandas
 - [ ] Numpy
 - [ ] Spark
 - [ ] Flink
