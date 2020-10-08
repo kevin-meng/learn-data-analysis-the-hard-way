@@ -1,0 +1,9 @@
+version: "3.2"
+services:
+  jupyter:
+    image: mengkevin/anaconda:201910
+    container_name: jupyter-pandas
+    ports:
+        - "8895:8888"
+    volumes:
+        - ../:/src/notebooks
